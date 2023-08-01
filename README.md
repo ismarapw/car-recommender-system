@@ -1,5 +1,5 @@
 # Simple Car Recommender system
-Welcome to the Simple Car Recommender System repository on GitHub! This project aims to provide a basic car recommendation system using Python. The main purpose of this project is predicting the desired car from the user's input based on the **size, convenience, irritability, speed and price**. This prject is implemented for Artificial Intelligence Course which utilized KNN (k-Nearest Neighbor) algorithm.
+Welcome to the Simple Car Recommender System repository on GitHub! This project aims to provide a basic car recommendation system using Python. The main purpose of this project is predicting the desired car from the user's input based on the **size, convenience, irritability, speed and price**. This project is implemented for Artificial Intelligence Course which utilized KNN (k-Nearest Neighbor) algorithm.
 
 # Features
 1. Data Preprocessing.
